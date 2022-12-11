@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhivyeshrk
-- 👀 I’m a computer science student undergrad from IIIT kottayam.
-- 🌱 I’m interested in competitive programming and desktop app development.
-- 💡 Constructive criticism always appreciated. 
+- 👀 Computer Science undergrad at the Indian Institute of Information Technology, Kottayam.
+- 🌱 I am an avid coding enthusiast who loves solving problems using Computer Science.
 - 📫 Reach me on my e-mail dhivyesh.rk@gmail.com. 
 - ❤️ Jesus loves you
 <!---
