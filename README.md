@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dhivyeshrk
-- 👀 Computer Science undergrad at the Indian Institute of Information Technology, Kottayam.
-- 🌱 I am an avid coding enthusiast who loves solving problems using Computer Science.
+- 👀 Computer Science undergrad at IIIT-k.
+- 🌱 I have experience in handling data and intermediate understanding Machine Learning / Deep Learning techniques
+
 - 📫 Reach me on my e-mail dhivyesh.rk@gmail.com. 
 - ❤️ Jesus loves you
 <!---
