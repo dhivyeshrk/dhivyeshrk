@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhivyeshrk
 - 👀 Computer Science undergrad at IIIT-k.
-- 🌱 I enjoy building and experimenting with Machine Learning with special care about data quality    
+- 🌱 I enjoy building applications involving LLMs and Deep Learning
 - 📫 Reach me on my e-mail dhivyesh.rk@gmail.com. 
 - ❤️ Jesus loves you
 <!---
