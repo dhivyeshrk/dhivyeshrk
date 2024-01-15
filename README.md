@@ -28,25 +28,61 @@
 --- 
 
 <h3> Technologies I use </h3>
-&nbsp; &nbsp;
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" /></a>
-&nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="50" /></a> 
-&nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" height="50" /></a>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" /></a>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" /></a>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" /></a>
-&nbsp;&nbsp;
-<img src="https://camo.githubusercontent.com/e2e8a71356372fcc56b1eb24f17804890b3f657b03fbbae1bc2082e7366c36d5/68747470733a2f2f776562696d616765732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6c6d617376667235696d626674327362662d4c616e67436861696e5f576f726b6d61726b5f436f6c6f72253230312e7376673f6175746f3d666f726d61742532353243636f6d7072657373" height="25" /></a>
-&nbsp;&nbsp;
-<img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1705571272&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNTU3MTI3Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=Z8p3FLc4Lyyg54tvjNL5skg2IohQ3vZvyD0z1rb0pBkeZ1NBbjVVDc8fAMb-SP8WpjlEsPNsDi2rutdoO8SHCzGykFZ4ed%7E85RthPzte2Rkqazj7BE7iPTHqNEH9u0HBVXqjS-3ZdTwnNyUNORUu1g-EOGJnFML-2zAHXUZTKHZGZAoyUY48agjuJlFLH0qjoxV0AO0lhJ5H4KQzOrOml3wkdnFV1SEHWZyXcaMWhGQtGkoLCjNZUHjAzhTBB5Dzu1afpFlgVZbuck8R7vX4i2LGzfxu0EEMitfcvoo5hvD0z-pjdw4aUHdksrJ8LGIxKpoBkAw1vU-84bYQ3wJX4A__&Key-Pair-Id=KVTP0A1DKRTAX" height="60" /></a>
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="50" /></a>
-&nbsp;&nbsp;
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  td {
+    border: none;
+    padding: 10px;
+  }
+</style>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jupyter.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://keras.io/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/">
+        <img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1705571272&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNTU3MTI3Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=Z8p3FLc4Lyyg54tvjNL5skg2IohQ3vZvyD0z1rb0pBkeZ1NBbjVVDc8fAMb-SP8WpjlEsPNsDi2rutdoO8SHCzGykFZ4ed%7E85RthPzte2Rkqazj7BE7iPTHqNEH9u0HBVXqjS-3ZdTwnNyUNORUu1g-EOGJnFML-2zAHXUZTKHZGZAoyUY48agjuJlFLH0qjoxV0AO0lhJ5H4KQzOrOml3wkdnFV1SEHWZyXcaMWhGQtGkoLCjNZUHjAzhTBB5Dzu1afpFlgVZbuck8R7vX4i2LGzfxu0EEMitfcvoo5hvD0z-pjdw4aUHdksrJ8LGIxKpoBkAw1vU-84bYQ3wJX4A__&Key-Pair-Id=KVTP0A1DKRTAX" height="60" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.jetbrains.com/pycharm/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
