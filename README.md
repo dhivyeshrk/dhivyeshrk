@@ -28,17 +28,6 @@
 --- 
 
 <h3> Technologies I use </h3>
-<style>
-  table {
-    border-collapse: collapse;
-  }
-
-  td {
-    border: none;
-    padding: 10px;
-  }
-</style>
-
 <table>
   <tr>
     <td align="center">
