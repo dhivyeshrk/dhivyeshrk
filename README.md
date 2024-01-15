@@ -11,7 +11,7 @@
 - 👋 Hi, I’m <b> Dhivyesh </b> !
 - 👀 Computer Science Junior at IIIT K
 - 🌱 I work extensively with LLMs, GenAI and Explainable AI.
-- 🕵️ Avid admirer of AI Research, too ;-)
+- 🕵️ Avid admirer of AI Research, too :-) <br>
 ❤️ <i> Jesus loves you </i>
 
 <div align = "center" >
