@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m <b> Dhivyesh </b> !
 - 👀 Computer Science undergrad at IIIT-k.
-- 🌱 I work extensively with LLMs, GenAI and Explainable AI
+- 🌱 I work extensively with LLMs, GenAI and Explainable AI <br>
 ❤️ <i> Jesus loves you </i>
 
 --- 
